@@ -10,13 +10,14 @@ Zeigt Kursdaten in enem Display
 Seit sfgz_kursverwaltung 9.1.08 wurde dieser Teil ausgelagert und mit dieser neuen Extension **sfgz_display** relaisiert.
 
 ## Import-Funktionen
+### Kurse
+Importiert Kurse ab Kursverwaltung
+### Belegungen
 Importiert Vorgabe-Belegungen ab 
 - Raumplanung-DB
 - Raumplanung-Kalender
 - hochgeladener Datei
-
-Importiert Kurse ab Kursverwaltung
-
+### Ausgabe
 Die Kurse werden automatisch angezeigt, die Belegungen müssen erfasst/ausgewählt werden.
 
 ## Zeit-Funktionen
