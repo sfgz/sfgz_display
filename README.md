@@ -13,5 +13,9 @@ Importiert Vorgabe-Belegungen ab
 - Raumplanung-DB
 - Raumplanung-Kalender
 - hochgeladener Datei
+
 Importiert Kurse ab Kursverwaltung
+
 Die Kurse werden automatisch angezeigt, die Belegungen müssen erfasst/ausgewählt werden.
+
+Löscht automatisch alle alten Belegungen, das Alter wird in der Extension-Configuration angegeben (Einstellungen / Extension Configuration).
