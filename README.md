@@ -1,10 +1,10 @@
 # sfgz_display
-## Intro
 Shows Course-Datas on a screen with clock
 
 Since sfgz_kursverwaltung 9.1.08 this part is outsourced to this own new extension **sfgz_display**.
 
----
+## Intro
+
 
 Zeigt Kursdaten in enem Display
 
