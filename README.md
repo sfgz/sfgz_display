@@ -21,8 +21,10 @@ Die Kurse werden automatisch angezeigt, die Belegungen müssen erfasst/ausgewäh
 
 ## Zeit-Funktionen
 
-**Datenhygiene**: Löscht automatisch alle alten Belegungen, das Alter wird in der Extension-Configuration angegeben (Einstellungen / Extension Configuration).
+### Datenhygiene
+Löscht automatisch alle alten Belegungen, das Alter wird in der Extension-Configuration angegeben (Einstellungen / Extension Configuration).
 
-**Permacontent**: Wenn eine **Endzeit** angegeben wurde, wird der Text bis zu jenem Datum angezeigt. Er wird an eventuell bestehenenden Text angehängt. 
+### Permacontent
+Wenn eine **Endzeit** angegeben wurde, wird der Text bis zu jenem Datum angezeigt. Er wird an eventuell bestehenenden Text angehängt. 
 
 Mit der Option *Ausblenden* werden alle Belegung- und Kurseinträge ausgeblendet. Ohne Endzeit hat diese Option keinen Enifluss.
