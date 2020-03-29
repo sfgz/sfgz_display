@@ -24,4 +24,4 @@ Die Kurse werden automatisch angezeigt, die Belegungen müssen erfasst/ausgewäh
 
 **Permacontent**: Wenn eine **Endzeit** angegeben wurde, wird der Text bis zu jenem Datum angezeigt. Er wird an eventuell bestehenenden Text angehängt. 
 
-Mit der Option *Ausblenden* werden alle Belegung- und Kurseinträge ausgeblendet. Ohne Endzeit hat diese Optin keinen Enifluss.
+Mit der Option *Ausblenden* werden alle Belegung- und Kurseinträge ausgeblendet. Ohne Endzeit hat diese Option keinen Enifluss.
