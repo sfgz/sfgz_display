@@ -13,7 +13,7 @@ Seit sfgz_kursverwaltung 9.1.08 wurde dieser Teil ausgelagert und mit dieser neu
 ## Import-Funktionen
 Die Kurse werden automatisch angezeigt, die Belegungen müssen erfasst/ausgewählt werden.
 
-* Wenn die Extension **fgz_kurs** nicht installiert ist, müssen alle Einträge als »Belegung« erfolgen.*
+*Wenn die Extension **fgz_kurs** nicht installiert ist, müssen alle Einträge als »Belegung« erfolgen.*
 
 ### Kurse
 Importiert Kurse ab Kursverwaltung Extension **fgz_kurs** (Aktuell)
