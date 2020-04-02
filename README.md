@@ -17,7 +17,7 @@ Die Kurse werden automatisch angezeigt, die Belegungen müssen erfasst/ausgewäh
 Importiert Kurse ab Kursverwaltung Extension sfgz_kurs.
 ### Belegungen
 Importiert Vorgabe-Belegungen ab 3 möglichen Quellen und kombiniert sie.
-- Raumplanung-DB Extension mffdb
+- Raumplanung-DB Extension mffrps 
 - Raumplanung-Kalender url raumplanung @sfgz.ch
 - hochgeladener Datei XLSX, CSV...
 
