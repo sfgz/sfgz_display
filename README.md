@@ -18,7 +18,7 @@ Importiert Kurse ab Kursverwaltung sfgz_kurs.
 ### Belegungen
 Importiert Vorgabe-Belegungen ab 3 möglichen Quellen und kombiniert sie.
 - Raumplanung-DB mffdb
-- Raumplanung-Kalender url raumplanung@sfgz.ch
+- Raumplanung-Kalender url raumplanung @sfgz.ch
 - hochgeladener Datei XLSX, CSV...
 
 
