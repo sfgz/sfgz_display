@@ -34,3 +34,5 @@ Wenn eine **Endzeit** angegeben wurde, wird der Text bis zu jenem Datum angezeig
 
 ### FIXME 
 Permacontent kann nur bis einen Tag vor Ablauf bearbeitet werden. Am Ablauf-Tag und später ist eine Bearbeitung nicht mehr möglich. [Programmierfehler: Bug]
+
+Im Backend geht es problemlos, dort ist jeder Datensatz immer bearbreitbar.
