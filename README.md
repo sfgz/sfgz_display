@@ -29,3 +29,6 @@ Löscht automatisch alle alten Belegungen, das Alter wird in der Extension-Confi
 
 ### Permacontent
 Wenn eine **Endzeit** angegeben wurde, wird der Text bis zu jenem Datum angezeigt. Er wird an eventuell bestehenenden Text angehängt. Es werden alle Belegung- und Kurseinträge ausgeblendet.
+
+### FIXME 
+Permacontent kann nur solange bearbeitet werden bis einen Tag vor Ablauf. Am Ablauf-Tag und später ist eine Bearbeitung nicht möglich
