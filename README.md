@@ -10,13 +10,10 @@ Zeigt Kursdaten in enem Display
 
 Seit sfgz_kursverwaltung 9.1.08 wurde dieser Teil ausgelagert und mit dieser neuen Extension **sfgz_display** relaisiert.
 
-## Erfordernisse
-Keine. Wenn die Extension **mffrps** geladen ist weden die Daten auch direkt von jener DB bezogen.
-
-Wenn die Extension **fgz_kurs** nicht installiert ist, müssen alle Einträge als »Belegung« erfolgen.
-
 ## Import-Funktionen
 Die Kurse werden automatisch angezeigt, die Belegungen müssen erfasst/ausgewählt werden.
+
+* Wenn die Extension **fgz_kurs** nicht installiert ist, müssen alle Einträge als »Belegung« erfolgen.*
 
 ### Kurse
 Importiert Kurse ab Kursverwaltung Extension **fgz_kurs** (Aktuell)
